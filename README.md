@@ -4,6 +4,8 @@ This Streamlit web application detects AI-generated content in text and humanize
 
 ## Features
 
+![Preview](prev.png)
+
 - Detects over 35 AI-associated words and phrases including formal patterns and repetitive syntax.
 - Analyzes sentence burstiness, lexical diversity, passive voice, contractions, and repetition.
 - Calculates AI probability with human-readable scoring (0-30% likely human, 70-100% likely AI).
@@ -52,5 +54,6 @@ The humanizer rewrites text by varying sentence lengths, adding conversational c
 
 
 ## Acknowledgments
+
 
 Built with Streamlit, NLTK, Textstat, and inspired by state-of-the-art AI text detection research.
